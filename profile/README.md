@@ -8,9 +8,9 @@ Our [Webpage](https://www.daskju.com)\
 and\
 [Blog](https://blog.daskju.com)
 
-## Our Main Projekts
+## Our Projekts
 [Crystel](https://github.com/DasKju/Crystel)
-
+[TheCredit](github.com/dasKju/The-Credit)
 <!--
 
 **Here are some ideas to get you started:**
