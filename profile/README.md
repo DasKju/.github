@@ -1,11 +1,12 @@
-# DasKju
+# Daskju
 
-## Hi there 👋
-We at Daskju Wont to create OpenSource and Free Software!
+## About 👋
+We are Daskju, a group of free & open source software lovers and developers that are building cool things together.\
+Everyone is free to join us and do something new.
 
-## Where you can finde us
-Our [Webpage](https://www.daskju.com)\
-and [Blog](https://blog.daskju.com)
+## Where you find us
+You can take a look at our [webpage](https://www.daskju.com) to get some more information.
+Until we find a proper alternative for Discord, you can find our server [here](https://discord.gg/3aFH2pPGKZ).
 
 ## Our Projekts
 [Crystel](https://github.com/DasKju/Crystel)          
