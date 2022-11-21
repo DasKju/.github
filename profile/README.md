@@ -1,7 +1,7 @@
 # DasKju
 
 ## Hi there 👋
-We at Daskju Wont to create OpenSource and Free Software!
+We at Daskju want to create OpenSource and Free Software!
 
 ## Where you can finde us
 Our [Webpage](https://www.daskju.com)\
